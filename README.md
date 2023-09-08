@@ -9,6 +9,3 @@
 
 [https://suzzit6.github.io/Amazon-clone/](https://suzzit6.github.io/Amazon-clone/)
 
-<h2>Project Screenshots:</h2>
-
-<img src="file:///C:/Users/sujit%20mishra/OneDrive/Pictures/Screenshots/Screenshot%202023-09-08%20184708.png" alt="project-screenshot" width="400" height="400/"> 
