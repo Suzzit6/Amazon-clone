@@ -5,7 +5,6 @@
 
 <p id="description">Amazon Clone Made Using HTML and CSS .</p>
 
-<h2>🚀 Demo</h2>
+<h2>🚀 Visit Site </h2>
 
 [https://suzzit6.github.io/Amazon-clone/](https://suzzit6.github.io/Amazon-clone/)
-
